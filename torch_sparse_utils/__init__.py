@@ -1,1 +1,1 @@
-from .sparse import sample_neighbors
+from .samplers import sample_neighbors
